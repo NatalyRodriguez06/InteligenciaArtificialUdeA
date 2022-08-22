@@ -26,7 +26,7 @@ a los pacientes, con el fin de ver si las infecciones pueden arrojar algún patr
 valores o si simplemente se generan de forma aleatoria.
 
 Para visualizar el set de datos puede usarse el siguiente link:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USUARIO/REPO/blob/main/NOTEBOOK.ipynb](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/github/USUARIO/REPO/blob/main/NOTEBOOK.ipynb](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing)](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing))
 
 
 ## Entregas
