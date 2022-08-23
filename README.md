@@ -34,4 +34,4 @@ Para visualizar el set de datos puede usarse el siguiente link:
 Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/primeraEntrega/Proyecto_Entrega%201.pdf)
 - [Segunda entrega](
-https://github.com/daenloye/InteligenciaArtificialUdeA/tree/main/Entrega_2)
+https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/Proyecto_Entrega%202.pdf)
