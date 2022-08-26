@@ -35,3 +35,8 @@ Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/primeraEntrega/Proyecto_Entrega%201.pdf)
 - [Segunda entrega](
 https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/Proyecto_Entrega%202.pdf)
+
+## Videos
+
+En este espacio se citan los videos respectivos para cada entrega:
+- [Video de segunda entrega](https://youtu.be/JZYvBkXeqlo)
