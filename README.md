@@ -43,4 +43,11 @@ En este espacio se citan los videos respectivos para cada entrega:
 
 ## Notebooks
 
-- 00 Visualización de datos [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 00-Visualización_de_datos [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 01-Exploracion_de_datos [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 02-Preprocesado_para_clasificación [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 03-Primer_Modelo_Regresión_Lineal [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 04-Segundo_Modelo_Árboles_de_Decisión [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 05-Tercer_Modelo_Perceptrón_Multicapa [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 06-Cuarto_Modelo_Máquina_de_Soporte_Vectorial [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 07-Quinto_Modelo_Regresión_Logística [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
