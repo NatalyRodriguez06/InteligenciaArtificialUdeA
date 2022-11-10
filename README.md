@@ -43,11 +43,11 @@ En este espacio se citan los videos respectivos para cada entrega:
 
 ## Notebooks
 
-- 00-Visualización_de_datos [Abrir en Colab]([https://drive.google.com/file/d/1hUQETzFdcLLJWX0vk7gUM3orFR4fL1kA/view?usp=sharing](https://colab.research.google.com/drive/1J0AHXn_1rpKEV7BYqP97OF-AP7u-i_73?usp=sharing)
-- 01-Exploracion_de_datos [Abrir en Colab]([https://drive.google.com/file/d/18UHFWNGeAwjZ9V_M3S7AwkEY0ZBBSYN6/view?usp=sharing](https://colab.research.google.com/drive/1t7Hx43ng7wRH7bfk3ubl4hvc_WJT7wwf?usp=sharing)
+- 00-Visualización_de_datos [Abrir en Colab](https://colab.research.google.com/drive/1J0AHXn_1rpKEV7BYqP97OF-AP7u-i_73?usp=sharing)
+- 01-Exploracion_de_datos [Abrir en Colab](https://colab.research.google.com/drive/1t7Hx43ng7wRH7bfk3ubl4hvc_WJT7wwf?usp=sharing)
 - 02-Preprocesado_para_clasificación [Abrir en Colab](https://colab.research.google.com/drive/1FaWe5NcIFUU7UDhrMZByjnRHizD2kpud?usp=sharing)
 - 03-Primer_Modelo_Regresión_Lineal [Abrir en Colab](https://colab.research.google.com/drive/16dxO2VbSLnJAbqaqDkOcUt-aCfO9El-R?usp=sharing)
-- 04-Segundo_Modelo_Árboles_de_Decisión [Abrir en Colab](https://drive.google.com/file/d/1kHSeCFv7d1H0tbsihuVJwlqGmHBi8Wlx/view?usp=sharing)
+- 04-Segundo_Modelo_Árboles_de_Decisión [Abrir en Colab](https://colab.research.google.com/drive/1H8aU1viJCA9d8kyVJTurBvQZFiVHElZD?usp=sharing)
 - 05-Tercer_Modelo_Perceptrón_Multicapa [Abrir en Colab](https://colab.research.google.com/drive/1axxiZSsISRDT7VXkEYwXxWqHmhQxlJwA?usp=sharing)
 - 06-Cuarto_Modelo_Máquina_de_Soporte_Vectorial [Abrir en Colab](https://colab.research.google.com/drive/1j0jD-Y9N4FMEsZwtBw4ckqzNQhzjlS2j?usp=sharing)
 - 07-Quinto_Modelo_Regresión_Logística [Abrir en Colab](https://)
