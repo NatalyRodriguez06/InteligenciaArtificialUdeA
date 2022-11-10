@@ -43,4 +43,4 @@ En este espacio se citan los videos respectivos para cada entrega:
 
 ## Notebooks
 
-- 00 - Visualización de datos [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
+- 00 Visualización de datos [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
