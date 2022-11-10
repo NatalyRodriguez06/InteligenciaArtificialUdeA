@@ -26,7 +26,7 @@ a los pacientes, con el fin de ver si las infecciones pueden arrojar algún patr
 valores o si simplemente se generan de forma aleatoria.
 
 Para visualizar el set de datos puede usarse el siguiente link:
-[Abrir en Collab](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing)
+[Abrir en Colab](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing)
 
 
 ## Entregas
@@ -40,3 +40,7 @@ https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/Proyecto_Entreg
 
 En este espacio se citan los videos respectivos para cada entrega:
 - [Video de segunda entrega](https://youtu.be/JZYvBkXeqlo)
+
+## Notebooks
+
+- 00 - Visualización de datos [Abrir en Colab](https://youtu.be/JZYvBkXeqlo)
