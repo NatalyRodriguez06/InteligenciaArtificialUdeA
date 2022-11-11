@@ -76,6 +76,7 @@ https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/Proyecto_Entreg
 
 En este espacio se citan los videos respectivos para cada entrega:
 - [Video de segunda entrega](https://youtu.be/JZYvBkXeqlo)
+- [Video de entrega final](https://youtu.be/09nPtlonFYM)
 
 ## Notebooks
 
