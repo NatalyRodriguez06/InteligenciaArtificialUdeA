@@ -86,4 +86,4 @@ En este espacio se citan los videos respectivos para cada entrega:
 - 04-Segundo_Modelo_Árboles_de_Decisión [Abrir en Colab](https://colab.research.google.com/drive/1H8aU1viJCA9d8kyVJTurBvQZFiVHElZD?usp=sharing)
 - 05-Tercer_Modelo_Perceptrón_Multicapa [Abrir en Colab](https://colab.research.google.com/drive/1axxiZSsISRDT7VXkEYwXxWqHmhQxlJwA?usp=sharing)
 - 06-Cuarto_Modelo_Máquina_de_Soporte_Vectorial [Abrir en Colab](https://colab.research.google.com/drive/1j0jD-Y9N4FMEsZwtBw4ckqzNQhzjlS2j?usp=sharing)
-- 07-Quinto_Modelo_Regresión_Logística [Abrir en Colab](https://)
+- 07-Quinto_Modelo_Regresión_Logística [Abrir en Colab](https://colab.research.google.com/drive/1JSby_teJkdbeh8SBfH86LtdJeX77gfKS?usp=sharing)
