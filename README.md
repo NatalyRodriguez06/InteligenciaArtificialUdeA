@@ -87,3 +87,9 @@ En este espacio se citan los videos respectivos para cada entrega:
 - 05-Tercer_Modelo_Perceptrón_Multicapa [Abrir en Colab](https://colab.research.google.com/drive/1axxiZSsISRDT7VXkEYwXxWqHmhQxlJwA?usp=sharing)
 - 06-Cuarto_Modelo_Máquina_de_Soporte_Vectorial [Abrir en Colab](https://colab.research.google.com/drive/1j0jD-Y9N4FMEsZwtBw4ckqzNQhzjlS2j?usp=sharing)
 - 07-Quinto_Modelo_Regresión_Logística [Abrir en Colab](https://colab.research.google.com/drive/1JSby_teJkdbeh8SBfH86LtdJeX77gfKS?usp=sharing)
+
+## Agradecimientos
+
+Agradecemos al profesor Raúl Ramos Pollán, quién fue nuestro docente y guía durante este semestre, gracias a él pudimos realizar todo lo que se encuentra aquí.
+
+[Awesome README](https://github.com/matiassingers/awesome-readme)
