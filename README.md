@@ -25,10 +25,9 @@ El set de datos tiene mucha información según resultados de pruebas que se les
 a los pacientes, con el fin de ver si las infecciones pueden arrojar algún patrón en estos
 valores o si simplemente se generan de forma aleatoria.
 
-Para visualizar el set de datos puede usarse el siguiente link:
-[Abrir en Colab](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing)
+## Visualizar el set de datos
 
-Para descargar los datos es necesario seguir una serie de pasos:
+Para visualizar los datos en un notebook en colab basta con seguir los siguientes pasos:
 
 1. Subir el archivo de credenciales kaggle.json al Colab, para ello se hace uso de las siguientes líneas de código:
     
@@ -39,9 +38,32 @@ Para descargar los datos es necesario seguir una serie de pasos:
   ! cp kaggle.json ~/.kaggle/
   ! chmod 600 ~/.kaggle/kaggle.json
 ```
-    
-3. ee
 
+Se abrirá un pequeño recuadro en el Colab que permite buscar directamente el archivo desde nuestro ordenador.
+
+2. Descargar el set de datos directamente desde Kaggle, para ello hacemos uso de las siguientes líneas de código:
+
+```
+  ! kaggle datasets download -d georgesaavedra/covid19-dataset
+```
+
+Los datos se descargarán en un archivo comprimido de formato .zip
+
+3. Descomprimir el archivo .zip, para ello usamos las siguientes líneas de código: 
+
+```
+  ! unzip /content/covid19-dataset.zip
+```
+
+Esto nos dejará un archivo .csv en nuestro directorio.
+
+4. Abrir el dataset. (Si no se han instalado las librerías basta con correr la línea `import pandas as pd` y la línea `import numpy as np`, estas líneas cargan la librería Pandas y Numpy). Para ello ejecutamos la siguiente línea de código:
+
+```
+ pd.read_csv('owid-covid-data.csv') 
+```
+
+Y con ello los datos ya estarán disponibles. Es posible guardar también los datos haciendo ` miVariable=pd.read_csv('owid-covid-data.csv') ` y con ello los datos quedan guardados en una variable para su posterior uso.
 
 ## Entregas
 
