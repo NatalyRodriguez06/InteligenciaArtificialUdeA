@@ -91,5 +91,3 @@ En este espacio se citan los videos respectivos para cada entrega:
 ## Agradecimientos
 
 Agradecemos al profesor Raúl Ramos Pollán, quién fue nuestro docente y guía durante este semestre, gracias a él pudimos realizar todo lo que se encuentra aquí.
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
