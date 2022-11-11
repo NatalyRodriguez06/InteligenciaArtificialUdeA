@@ -25,7 +25,7 @@ El set de datos tiene mucha información según resultados de pruebas que se les
 a los pacientes, con el fin de ver si las infecciones pueden arrojar algún patrón en estos
 valores o si simplemente se generan de forma aleatoria.
 
-## Visualizar el set de datos
+## Cómo visualizar el set de datos
 
 Para visualizar los datos en un notebook en colab basta con seguir los siguientes pasos:
 
