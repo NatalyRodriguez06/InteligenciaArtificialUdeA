@@ -28,6 +28,13 @@ valores o si simplemente se generan de forma aleatoria.
 Para visualizar el set de datos puede usarse el siguiente link:
 [Abrir en Colab](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing)
 
+Para descargar los datos es necesario seguir una serie de pasos:
+
+1. Subir el archivo de credenciales kaggle.json al Colab, para ello se hace uso de las siguientes líneas de código:
+    ! comando 1
+    ! comando 2
+3. 
+
 
 ## Entregas
 
