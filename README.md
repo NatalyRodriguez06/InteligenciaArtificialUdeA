@@ -33,7 +33,11 @@ Para descargar los datos es necesario seguir una serie de pasos:
 1. Subir el archivo de credenciales kaggle.json al Colab, para ello se hace uso de las siguientes líneas de código:
     
 ```
-  GET /api/items
+  from google.colab import files
+  files.upload()
+  ! mkdir ~/.kaggle
+  ! cp kaggle.json ~/.kaggle/
+  ! chmod 600 ~/.kaggle/kaggle.json
 ```
     
 3. ee
